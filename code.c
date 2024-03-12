@@ -2,6 +2,9 @@
 
 int main(void)
 {
-	printf("xx");
+	printf("xxx");
+
+	printf("xxxx");
+	printf("xxxxx");
 	return 0;
 }
