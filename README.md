@@ -58,7 +58,21 @@
 ## 超链接
 [bilibili弹幕](https://www.bilibili.com "点击进入")
 
+## 插入图片
 ![截图](C://Users//许佳楸//Desktop//11.jpj "点击打开")
+	本地图片无法被github识别与显示，需要将本地图片上传到某个图床网站，生成对应的URL网络图片地址，而后可以在github中显示与使用
+
+## 插入代码片段
+
+```C
+	#include<stdio.h>
+```
+```cpp
+	#include<iostream>
+```
+```bash
+	netstate -apn | grep "8080"
+```
 
 
 
